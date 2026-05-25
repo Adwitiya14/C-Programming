@@ -1,0 +1,1 @@
+My C programming practice repository featuring basic to intermediate programs, logic-building exercises, and hands-on coding practice during my learning journey.
